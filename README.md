@@ -67,3 +67,4 @@ npx hardhat compile
 npx hardhat deploy --network sepolia
 ```
 * It responds with your deployed contract address
+### 📚 Guide source: [0xmoei/zama-fhe](https://github.com/0xmoei/zama-fhe)
